@@ -6,7 +6,8 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Pageon
     url: https://www.pageon.be
-
+assignees: # Users to assign downtime issues (optional)
+  - Carakas
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.pageon.be
