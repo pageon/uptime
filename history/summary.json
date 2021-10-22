@@ -4,7 +4,7 @@
     "url": "https://www.pageon.be",
     "icon": "https://favicons.githubusercontent.com/www.pageon.be",
     "slug": "pageon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2172,
     "timeYear": 2770,
     "dailyMinutesDown": {
+      "2021-10-22": 0,
       "2021-09-16": 14,
       "2021-08-26": 13,
       "2021-07-21": 11,
