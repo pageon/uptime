@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.pageon.be",
     "slug": "pageon",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.01%",
-    "time": 2653,
-    "timeDay": 1560,
-    "timeWeek": 2021,
-    "timeMonth": 1903,
-    "timeYear": 2753,
+    "time": 2651,
+    "timeDay": 1715,
+    "timeWeek": 1713,
+    "timeMonth": 1899,
+    "timeYear": 2750,
     "dailyMinutesDown": {
       "2022-05-01": 27,
       "2022-04-02": 1079,
@@ -38,8 +38,7 @@
       "2021-05-25": 92,
       "2021-05-19": 87,
       "2021-05-16": 28,
-      "2021-05-11": 29,
-      "2021-05-09": 19
+      "2021-05-11": 29
     }
   }
 ]
