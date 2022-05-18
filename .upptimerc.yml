@@ -72,6 +72,8 @@ sites:
     url: http://opendeurvzw.be
   - name: Fantastic wheels
     url: https://fantasticwheels.be
+  - name: Dreambaits
+    url: https://www.dreambaits.be/en
 assignees: # Users to assign downtime issues (optional)
   - Carakas
 status-website:
