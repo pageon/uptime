@@ -6,6 +6,72 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Pageon
     url: https://www.pageon.be
+  - name: Kind van God
+    url: https://blog.kindvangod.be
+  - name: Carakas
+    url: https://poetry.carakas.be
+  - name: Arise
+    url: https://arisefotografie.be
+  - name: De bock verschooris
+    url: http://debockverschooris.be
+  - name: Caros
+    url: http://carosbeauty.be
+  - name: Train me
+    url: http://train-me.be
+  - name: evadoc
+    url: http://evadoc.be
+  - name: Every Nation Campus Gent
+    url: http://everynationcampusgent.org
+  - name: School of intersession
+    url: https://www.schoolofintercession.eu
+  - name: Go internship
+    url: https://go-internship.eu
+  - name: Add your voice today
+    url: https://addyourvoicetoday.com
+  - name: Add upir voice
+    url: https://addyourvoice.today
+  - name: Every Nation Lisboa
+    url: https://everynationlisboa.org
+  - name: Ik geloof in Tielt
+    url: https://ikgeloofintielt.be
+  - name: Christelijke apologetiek
+    url: https://christelijkeapologetiek.be
+  - name: Naamcirkels
+    url: https://naamcirkels.be
+  - name: Feniks
+    url: https://feniksateljee.be
+  - name: Percecution
+    url: https://www.persecution.be
+  - name: Vervolging
+    url: https://www.vervolging.be
+  - name: Stagepro
+    url: http://stagepro.be
+  - name: mtcspoor6
+    url: http://mtcspoor6.be
+  - name: Masterhouse
+    url: https://masterhouse.be
+  - name: Norbert Roose
+    url: http://norbertroose.be
+  - name: Ik geloof in vlaanderen
+    url: https://ikgeloofinvlaanderen.be
+  - name: Grandes nouvelles
+    url: https://grandesnouvelles.be
+  - name: Educando
+    url: http://educando.be
+  - name: Connaitre Dieu
+    url: https://connaitredieu.com
+  - name: XEE
+    url: https://xee.works
+  - name: Feet up
+    url: https://feet-up.be
+  - name: Dock 66
+    url: https://dock66.be
+  - name: VEG
+    url: https://veg.be
+  - name: Open deur vzw
+    url: http://opendeurvzw.be
+  - name: Fantastic wheels
+    url: https://fantasticwheels.be
 assignees: # Users to assign downtime issues (optional)
   - Carakas
 status-website:
