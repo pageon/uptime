@@ -74,6 +74,8 @@ sites:
     url: https://fantasticwheels.be
   - name: Dreambaits
     url: https://www.dreambaits.be/en
+  - name: De kruispoort
+    url: https://dekruispoort.be/nl
 assignees: # Users to assign downtime issues (optional)
   - Carakas
 status-website:
