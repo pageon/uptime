@@ -499,10 +499,10 @@
     "url": "https://masterhouse.be",
     "icon": "https://favicons.githubusercontent.com/masterhouse.be",
     "slug": "masterhouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
     "time": 3937,
@@ -511,6 +511,7 @@
     "timeMonth": 4173,
     "timeYear": 3937,
     "dailyMinutesDown": {
+      "2022-07-20": 1,
       "2022-06-29": 64,
       "2022-06-06": 24,
       "2022-05-29": 38
@@ -773,19 +774,19 @@
     "url": "https://dekruispoort.be/nl",
     "icon": "https://favicons.githubusercontent.com/dekruispoort.be",
     "slug": "de-kruispoort",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2459,
-    "timeDay": 3664,
-    "timeWeek": 2718,
-    "timeMonth": 2390,
-    "timeYear": 2459,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2494,
+    "timeDay": 3907,
+    "timeWeek": 2897,
+    "timeMonth": 2447,
+    "timeYear": 2494,
     "dailyMinutesDown": {
-      "2022-07-20": 1
+      "2022-07-20": 18
     }
   }
 ]
