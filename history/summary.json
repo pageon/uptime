@@ -371,12 +371,12 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.66%",
     "time": 9026,
     "timeDay": 11485,
-    "timeWeek": 9279,
+    "timeWeek": 8992,
     "timeMonth": 8699,
     "timeYear": 9026,
     "dailyMinutesDown": {
@@ -399,12 +399,12 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 3563,
     "timeDay": 1476,
-    "timeWeek": 2071,
+    "timeWeek": 2132,
     "timeMonth": 3141,
     "timeYear": 3563,
     "dailyMinutesDown": {
@@ -773,10 +773,10 @@
     "url": "https://dekruispoort.be/nl",
     "icon": "https://favicons.githubusercontent.com/dekruispoort.be",
     "slug": "de-kruispoort",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2459,
@@ -784,6 +784,8 @@
     "timeWeek": 2718,
     "timeMonth": 2390,
     "timeYear": 2459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 1
+    }
   }
 ]
