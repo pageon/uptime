@@ -371,7 +371,7 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.66%",
     "time": 9026,
@@ -667,10 +667,10 @@
     "url": "https://dock66.be",
     "icon": "https://favicons.githubusercontent.com/dock66.be",
     "slug": "dock-66",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
     "time": 4393,
@@ -679,6 +679,7 @@
     "timeMonth": 5000,
     "timeYear": 4393,
     "dailyMinutesDown": {
+      "2022-07-20": 1,
       "2022-06-29": 56,
       "2022-05-29": 36
     }
