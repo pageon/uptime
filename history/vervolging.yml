@@ -1,7 +1,7 @@
 url: https://www.vervolging.be
-status: up
-code: 200
-responseTime: 1080
-lastUpdated: 2022-09-26T23:22:46.020Z
+status: down
+code: 502
+responseTime: 380
+lastUpdated: 2022-09-27T15:12:10.899Z
 startTime: Wed May 18 2022 14:19:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
