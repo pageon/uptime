@@ -76,6 +76,8 @@ sites:
     url: https://www.dreambaits.be/en
   - name: De kruispoort
     url: https://dekruispoort.be/nl
+  - name: Bijbeldag
+    url: https://bijbeldag.be
 assignees: # Users to assign downtime issues (optional)
   - Carakas
 status-website:
