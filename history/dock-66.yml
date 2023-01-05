@@ -1,7 +1,7 @@
 url: https://dock66.be
-status: up
-code: 200
-responseTime: 6864
-lastUpdated: 2023-01-04T23:16:26.580Z
+status: down
+code: 500
+responseTime: 666
+lastUpdated: 2023-01-05T03:51:23.673Z
 startTime: Wed May 18 2022 14:19:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
