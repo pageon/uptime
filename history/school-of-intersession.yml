@@ -1,7 +1,7 @@
 url: https://www.schoolofintercession.eu
-status: up
-code: 200
-responseTime: 1597
-lastUpdated: 2023-05-10T23:13:55.473Z
+status: down
+code: 500
+responseTime: 429
+lastUpdated: 2023-05-11T14:26:08.109Z
 startTime: Wed May 18 2022 14:18:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
