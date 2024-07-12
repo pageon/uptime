@@ -1,7 +1,7 @@
 url: https://grandesnouvelles.be
-status: up
-code: 200
-responseTime: 2625
-lastUpdated: 2024-07-11T23:17:26.093Z
+status: down
+code: 500
+responseTime: 488
+lastUpdated: 2024-07-12T08:00:51.527Z
 startTime: 2022-05-18T14:19:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
