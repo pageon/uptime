@@ -1,7 +1,7 @@
 url: https://masterhouse.be
-status: up
-code: 200
-responseTime: 25477
-lastUpdated: 2024-10-29T17:08:11.914Z
+status: down
+code: 500
+responseTime: 2168
+lastUpdated: 2024-10-29T21:12:26.391Z
 startTime: 2022-05-18T14:19:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
