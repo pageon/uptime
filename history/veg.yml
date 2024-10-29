@@ -1,7 +1,7 @@
 url: https://veg.be
-status: up
-code: 200
-responseTime: 1310
-lastUpdated: 2024-10-29T00:58:52.620Z
+status: down
+code: 500
+responseTime: 1166
+lastUpdated: 2024-10-29T17:57:21.285Z
 startTime: 2022-05-18T14:19:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
