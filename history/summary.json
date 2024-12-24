@@ -323,7 +323,7 @@
     "timeMonth": 0,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2024-12-24": 58,
+      "2024-12-24": 87,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -890,7 +890,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 58,
+      "2024-12-24": 87,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -1274,7 +1274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 58,
+      "2024-12-24": 87,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -1688,10 +1688,10 @@
     "url": "https://ikgeloofintielt.be",
     "icon": "https://icons.duckduckgo.com/ip3/ikgeloofintielt.be.ico",
     "slug": "ik-geloof-in-tielt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.21%",
     "time": 0,
@@ -1700,6 +1700,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2024-12-24": 1,
       "2024-12-18": 97,
       "2024-12-12": 164,
       "2024-12-05": 24,
@@ -2313,7 +2314,7 @@
     "timeMonth": 0,
     "timeYear": 2586,
     "dailyMinutesDown": {
-      "2024-12-24": 59,
+      "2024-12-24": 88,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -2558,7 +2559,7 @@
     "timeMonth": 0,
     "timeYear": 4060,
     "dailyMinutesDown": {
-      "2024-12-24": 59,
+      "2024-12-24": 88,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
