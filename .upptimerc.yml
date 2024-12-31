@@ -16,8 +16,6 @@ sites:
     url: http://debockverschooris.be
   - name: Caros
     url: http://carosbeauty.be
-  - name: Train me
-    url: http://train-me.be
   - name: evadoc
     url: http://evadoc.be
   - name: Every Nation Campus Gent
@@ -26,10 +24,6 @@ sites:
     url: https://www.schoolofintercession.eu
   - name: Go internship
     url: https://go-internship.eu
-  - name: Add your voice today
-    url: https://addyourvoicetoday.com
-  - name: Add upir voice
-    url: https://addyourvoice.today
   - name: Every Nation Lisboa
     url: https://everynationlisboa.org
   - name: Ik geloof in Tielt
@@ -50,10 +44,6 @@ sites:
     url: https://masterhouse.be
   - name: Norbert Roose
     url: http://norbertroose.be
-  - name: Ik geloof in vlaanderen
-    url: https://ikgeloofinvlaanderen.be
-  - name: Grandes nouvelles
-    url: https://grandesnouvelles.be
   - name: Educando
     url: http://educando.be
   - name: Connaitre Dieu
@@ -62,8 +52,6 @@ sites:
     url: https://xee.works
   - name: Feet up
     url: https://feet-up.be
-  - name: Dock 66
-    url: https://dock66.be
   - name: VEG
     url: https://veg.be
   - name: Open deur vzw
