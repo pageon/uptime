@@ -1,7 +1,7 @@
 url: https://www.persecution.be
-status: up
-code: 200
-responseTime: 580
-lastUpdated: 2025-03-06T23:17:03.241Z
+status: down
+code: 502
+responseTime: 23294
+lastUpdated: 2025-03-06T23:45:31.888Z
 startTime: 2022-05-18T14:19:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
