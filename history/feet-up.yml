@@ -1,7 +1,7 @@
 url: https://feet-up.be
-status: up
-code: 200
-responseTime: 3924
-lastUpdated: 2025-09-22T23:16:50.336Z
+status: down
+code: 500
+responseTime: 24665
+lastUpdated: 2025-09-23T16:43:44.602Z
 startTime: 2022-05-18T14:19:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
