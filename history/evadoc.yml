@@ -1,7 +1,7 @@
 url: http://evadoc.be
-status: up
-code: 200
-responseTime: 1806
-lastUpdated: 2026-01-04T14:45:56.607Z
+status: down
+code: 500
+responseTime: 1315
+lastUpdated: 2026-01-04T14:55:52.443Z
 startTime: 2022-05-18T14:18:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
