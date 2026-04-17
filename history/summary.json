@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.31%",
+    "uptimeWeek": "23.62%",
     "uptimeMonth": "27.34%",
     "uptimeYear": "93.85%",
     "time": 2112,
@@ -303,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schoolofintercession.eu.ico",
     "slug": "school-of-intersession",
     "status": "down",
-    "uptime": "71.91%",
+    "uptime": "71.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -314,7 +314,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 1422,
+      "2026-04-17": 114,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -677,8 +678,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -698,7 +698,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 1422,
+      "2026-04-17": 114,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -1061,8 +1062,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -1286,7 +1286,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stagepro.be.ico",
     "slug": "stagepro",
     "status": "down",
-    "uptime": "67.04%",
+    "uptime": "67.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1297,7 +1297,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 1423,
+      "2026-04-17": 114,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -1660,8 +1661,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -1696,19 +1696,20 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "65.33%",
-    "uptimeWeek": "84.62%",
-    "uptimeMonth": "94.86%",
-    "uptimeYear": "99.02%",
-    "time": 3423,
-    "timeDay": 1908,
-    "timeWeek": 2060,
-    "timeMonth": 2027,
-    "timeYear": 3302,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "64.26%",
+    "uptimeWeek": "83.33%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "99.00%",
+    "time": 3420,
+    "timeDay": 1901,
+    "timeWeek": 2052,
+    "timeMonth": 2024,
+    "timeYear": 3298,
     "dailyMinutesDown": {
-      "2026-04-16": 498,
+      "2026-04-17": 113,
+      "2026-04-16": 516,
       "2026-04-15": 112,
       "2026-04-14": 196,
       "2026-04-13": 283,
