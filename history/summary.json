@@ -8,7 +8,7 @@
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.30%",
+    "uptimeMonth": "35.53%",
     "uptimeYear": "93.85%",
     "time": 2115,
     "timeDay": 1613,
@@ -314,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1072,
+      "2026-04-26": 1172,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -698,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1072,
+      "2026-04-26": 1172,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1297,7 +1297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 1072,
+      "2026-04-26": 1173,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1697,19 +1697,19 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "86.63%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "86.69%",
     "uptimeMonth": "91.02%",
     "uptimeYear": "98.92%",
-    "time": 3439,
+    "time": 3441,
     "timeDay": 1798,
     "timeWeek": 2027,
     "timeMonth": 2043,
     "timeYear": 3204,
     "dailyMinutesDown": {
-      "2026-04-26": 51,
+      "2026-04-26": 52,
       "2026-04-25": 103,
       "2026-04-24": 119,
       "2026-04-22": 215,
@@ -1771,7 +1771,7 @@
       "2025-12-07": 10,
       "2025-12-05": 29,
       "2025-11-30": 21,
-      "2025-11-29": 20
+      "2025-11-29": 10
     }
   },
   {
