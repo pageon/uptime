@@ -8,7 +8,7 @@
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.66%",
+    "uptimeMonth": "47.00%",
     "uptimeYear": "93.85%",
     "time": 2122,
     "timeDay": 3434,
@@ -303,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schoolofintercession.eu.ico",
     "slug": "school-of-intersession",
     "status": "down",
-    "uptime": "71.25%",
+    "uptime": "71.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -314,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-30": 288,
+      "2026-04-30": 438,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -687,7 +687,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-internship.eu.ico",
     "slug": "go-internship",
     "status": "down",
-    "uptime": "70.43%",
+    "uptime": "70.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -698,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-30": 288,
+      "2026-04-30": 439,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -1297,7 +1297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-30": 289,
+      "2026-04-30": 439,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -1697,10 +1697,10 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "73.48%",
-    "uptimeWeek": "92.61%",
+    "uptimeDay": "73.38%",
+    "uptimeWeek": "92.60%",
     "uptimeMonth": "90.29%",
     "uptimeYear": "98.85%",
     "time": 3427,
@@ -1709,7 +1709,7 @@
     "timeMonth": 2029,
     "timeYear": 3193,
     "dailyMinutesDown": {
-      "2026-04-30": 206,
+      "2026-04-30": 207,
       "2026-04-29": 176,
       "2026-04-27": 56,
       "2026-04-26": 85,
@@ -1770,8 +1770,7 @@
       "2026-01-02": 15,
       "2025-12-27": 32,
       "2025-12-20": 18,
-      "2025-12-16": 34,
-      "2025-12-07": 10
+      "2025-12-16": 34
     }
   },
   {
