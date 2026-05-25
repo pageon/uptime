@@ -296,7 +296,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schoolofintercession.eu.ico",
     "slug": "school-of-intersession",
     "status": "down",
-    "uptime": "70.03%",
+    "uptime": "70.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -307,7 +307,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 538,
+      "2026-05-25": 738,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -691,7 +691,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 538,
+      "2026-05-25": 738,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1287,7 +1287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 539,
+      "2026-05-25": 738,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1687,16 +1687,16 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "76.41%",
-    "uptimeWeek": "87.33%",
-    "uptimeMonth": "89.25%",
-    "uptimeYear": "98.33%",
-    "time": 3212,
-    "timeDay": 3049,
-    "timeWeek": 2511,
-    "timeMonth": 2259,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "71.21%",
+    "uptimeWeek": "85.37%",
+    "uptimeMonth": "88.92%",
+    "uptimeYear": "98.29%",
+    "time": 3209,
+    "timeDay": 3068,
+    "timeWeek": 2550,
+    "timeMonth": 2273,
     "timeYear": 3042,
     "dailyMinutesDown": {
       "2026-03-08": 23,
@@ -1747,7 +1747,7 @@
       "2026-05-19": 177,
       "2026-05-21": 161,
       "2026-05-24": 570,
-      "2026-05-25": 2
+      "2026-05-25": 200
     }
   },
   {
