@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pageon.be.ico",
     "slug": "pageon",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
@@ -14,7 +14,7 @@
     "timeDay": 1756,
     "timeWeek": 4495,
     "timeMonth": 3730,
-    "timeYear": 2452,
+    "timeYear": 2454,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-07-24": 19,
@@ -66,7 +66,7 @@
     "timeDay": 1041,
     "timeWeek": 943,
     "timeMonth": 1596,
-    "timeYear": 1572,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-07-24": 19,
@@ -96,7 +96,7 @@
     "timeDay": 1396,
     "timeWeek": 1962,
     "timeMonth": 1941,
-    "timeYear": 1714,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-07-24": 19,
@@ -126,7 +126,7 @@
     "timeDay": 1110,
     "timeWeek": 3139,
     "timeMonth": 2392,
-    "timeYear": 2430,
+    "timeYear": 2433,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-06-15": 258,
@@ -157,7 +157,7 @@
     "timeDay": 1251,
     "timeWeek": 2255,
     "timeMonth": 1807,
-    "timeYear": 1952,
+    "timeYear": 1953,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-06-27": 9,
@@ -208,7 +208,7 @@
     "timeDay": 1003,
     "timeWeek": 2939,
     "timeMonth": 2244,
-    "timeYear": 1812,
+    "timeYear": 1813,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-07-24": 15,
@@ -236,7 +236,7 @@
     "timeDay": 2502,
     "timeWeek": 2662,
     "timeMonth": 2812,
-    "timeYear": 2467,
+    "timeYear": 2466,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-06-15": 258,
@@ -274,7 +274,7 @@
     "timeDay": 977,
     "timeWeek": 1545,
     "timeMonth": 1393,
-    "timeYear": 1672,
+    "timeYear": 1669,
     "dailyMinutesDown": {
       "2025-06-11": 20,
       "2025-07-24": 12,
@@ -306,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 1374,
+      "2026-06-08": 1436,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -690,7 +690,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 1374,
+      "2026-06-08": 1436,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -1072,7 +1072,7 @@
     "timeDay": 1762,
     "timeWeek": 2804,
     "timeMonth": 2216,
-    "timeYear": 2465,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2025-06-11": 21,
       "2025-07-24": 12,
@@ -1143,7 +1143,7 @@
     "timeDay": 13652,
     "timeWeek": 7438,
     "timeMonth": 6358,
-    "timeYear": 9837,
+    "timeYear": 9840,
     "dailyMinutesDown": {
       "2025-12-22": 29,
       "2025-12-23": 38,
@@ -1184,7 +1184,7 @@
     "timeDay": 3013,
     "timeWeek": 3589,
     "timeMonth": 3041,
-    "timeYear": 3162,
+    "timeYear": 3159,
     "dailyMinutesDown": {
       "2025-06-11": 21,
       "2025-06-15": 258,
@@ -1243,7 +1243,7 @@
     "timeDay": 858,
     "timeWeek": 1094,
     "timeMonth": 772,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-06-11": 21
     }
@@ -1285,7 +1285,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 1374,
+      "2026-06-08": 1436,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -1685,17 +1685,17 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "90.24%",
-    "uptimeMonth": "90.76%",
-    "uptimeYear": "98.16%",
-    "time": 3181,
-    "timeDay": 2770,
-    "timeWeek": 2444,
-    "timeMonth": 2528,
-    "timeYear": 2912,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "89.64%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "98.14%",
+    "time": 3180,
+    "timeDay": 2586,
+    "timeWeek": 2441,
+    "timeMonth": 2525,
+    "timeYear": 2906,
     "dailyMinutesDown": {
       "2026-04-04": 97,
       "2026-04-05": 19,
@@ -1747,7 +1747,7 @@
       "2026-06-04": 339,
       "2026-06-05": 329,
       "2026-06-06": 79,
-      "2026-06-08": 2
+      "2026-06-08": 62
     }
   },
   {
@@ -1794,7 +1794,7 @@
     "timeDay": 4029,
     "timeWeek": 3411,
     "timeMonth": 4076,
-    "timeYear": 4605,
+    "timeYear": 4606,
     "dailyMinutesDown": {
       "2025-06-11": 21,
       "2025-06-15": 259,
@@ -1833,7 +1833,7 @@
     "timeDay": 2058,
     "timeWeek": 1852,
     "timeMonth": 1706,
-    "timeYear": 1484,
+    "timeYear": 1485,
     "dailyMinutesDown": {
       "2025-06-16": 15,
       "2025-07-10": 10,
@@ -1858,7 +1858,7 @@
     "timeDay": 1025,
     "timeWeek": 810,
     "timeMonth": 841,
-    "timeYear": 1020,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-06-11": 21,
       "2026-01-04": 126,
@@ -1883,7 +1883,7 @@
     "timeDay": 1125,
     "timeWeek": 981,
     "timeMonth": 1710,
-    "timeYear": 3741,
+    "timeYear": 3742,
     "dailyMinutesDown": {
       "2025-06-11": 22,
       "2025-06-15": 259,
@@ -1931,7 +1931,7 @@
     "timeDay": 1012,
     "timeWeek": 1097,
     "timeMonth": 1562,
-    "timeYear": 1270,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-06-11": 22,
       "2025-06-15": 259,
@@ -1966,7 +1966,7 @@
     "timeDay": 2823,
     "timeWeek": 3192,
     "timeMonth": 4047,
-    "timeYear": 2797,
+    "timeYear": 2798,
     "dailyMinutesDown": {
       "2025-06-11": 22,
       "2025-06-15": 259,
@@ -2000,11 +2000,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.74%",
-    "time": 3481,
+    "time": 3724,
     "timeDay": 6146,
     "timeWeek": 3554,
     "timeMonth": 4584,
-    "timeYear": 3978,
+    "timeYear": 3977,
     "dailyMinutesDown": {
       "2025-06-11": 22,
       "2025-06-15": 259,
@@ -2042,7 +2042,7 @@
     "timeDay": 1186,
     "timeWeek": 1705,
     "timeMonth": 1280,
-    "timeYear": 1210,
+    "timeYear": 1209,
     "dailyMinutesDown": {
       "2025-06-10": 11,
       "2025-07-08": 125,
