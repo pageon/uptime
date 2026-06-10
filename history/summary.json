@@ -306,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 1125,
+      "2026-06-10": 1275,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -679,7 +679,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-internship.eu.ico",
     "slug": "go-internship",
     "status": "down",
-    "uptime": "68.46%",
+    "uptime": "68.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -690,7 +690,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 1125,
+      "2026-06-10": 1275,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1285,7 +1285,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 1125,
+      "2026-06-10": 1276,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1685,16 +1685,16 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "83.67%",
-    "uptimeWeek": "89.65%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "98.12%",
-    "time": 3186,
-    "timeDay": 7884,
-    "timeWeek": 3193,
-    "timeMonth": 2775,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "73.33%",
+    "uptimeWeek": "88.17%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "98.09%",
+    "time": 3185,
+    "timeDay": 6195,
+    "timeWeek": 3168,
+    "timeMonth": 2793,
     "timeYear": 2917,
     "dailyMinutesDown": {
       "2026-04-05": 19,
@@ -1747,7 +1747,7 @@
       "2026-06-05": 329,
       "2026-06-06": 79,
       "2026-06-08": 62,
-      "2026-06-10": 235
+      "2026-06-10": 384
     }
   },
   {
