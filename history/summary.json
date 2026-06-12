@@ -298,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 1001,
+      "2026-06-12": 1117,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -671,7 +671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-internship.eu.ico",
     "slug": "go-internship",
     "status": "down",
-    "uptime": "68.37%",
+    "uptime": "68.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -682,7 +682,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 1001,
+      "2026-06-12": 1117,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1270,7 +1270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 1002,
+      "2026-06-12": 1118,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1669,19 +1669,18 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "69.60%",
+    "uptimeDay": "69.51%",
     "uptimeWeek": "90.44%",
     "uptimeMonth": "89.64%",
-    "uptimeYear": "98.03%",
-    "time": 3173,
+    "uptimeYear": "98.04%",
+    "time": 3174,
     "timeDay": 2567,
-    "timeWeek": 3334,
+    "timeWeek": 3410,
     "timeMonth": 2822,
     "timeYear": 2909,
     "dailyMinutesDown": {
-      "2026-04-06": 61,
       "2026-04-07": 60,
       "2026-04-10": 241,
       "2026-04-11": 132,
@@ -1732,7 +1731,7 @@
       "2026-06-08": 62,
       "2026-06-10": 384,
       "2026-06-11": 88,
-      "2026-06-12": 350
+      "2026-06-12": 351
     }
   },
   {
@@ -1807,7 +1806,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/connaitredieu.com.ico",
     "slug": "connaitre-dieu",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
