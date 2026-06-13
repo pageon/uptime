@@ -287,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schoolofintercession.eu.ico",
     "slug": "school-of-intersession",
     "status": "down",
-    "uptime": "69.15%",
+    "uptime": "69.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -298,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 28,
+      "2026-06-13": 167,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -682,7 +682,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 28,
+      "2026-06-13": 167,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1270,7 +1270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 28,
+      "2026-06-13": 167,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1670,11 +1670,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "67.03%",
-    "uptimeWeek": "89.21%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "98.03%",
+    "uptime": "99.51%",
+    "uptimeDay": "57.41%",
+    "uptimeWeek": "87.84%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "98.00%",
     "time": 3174,
     "timeDay": 2199,
     "timeWeek": 3497,
@@ -1731,7 +1731,7 @@
       "2026-06-10": 384,
       "2026-06-11": 88,
       "2026-06-12": 474,
-      "2026-06-13": 1
+      "2026-06-13": 140
     }
   },
   {
