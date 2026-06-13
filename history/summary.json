@@ -298,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 1265,
+      "2026-06-13": 1328,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -682,7 +682,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 1265,
+      "2026-06-13": 1328,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1270,7 +1270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 1265,
+      "2026-06-13": 1328,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1669,16 +1669,16 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "89.82%",
-    "uptimeWeek": "88.55%",
-    "uptimeMonth": "89.03%",
-    "uptimeYear": "98.02%",
-    "time": 3169,
-    "timeDay": 3726,
-    "timeWeek": 3565,
-    "timeMonth": 2825,
+    "uptimeDay": "85.57%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "98.00%",
+    "time": 3165,
+    "timeDay": 3319,
+    "timeWeek": 3519,
+    "timeMonth": 2826,
     "timeYear": 2901,
     "dailyMinutesDown": {
       "2026-04-10": 151,
@@ -1731,7 +1731,7 @@
       "2026-06-10": 384,
       "2026-06-11": 88,
       "2026-06-12": 474,
-      "2026-06-13": 147
+      "2026-06-13": 208
     }
   },
   {
