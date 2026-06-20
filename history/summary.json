@@ -296,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 714,
+      "2026-06-20": 798,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -680,7 +680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 714,
+      "2026-06-20": 798,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -1220,7 +1220,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.persecution.be.ico",
     "slug": "percecution",
     "status": "up",
-    "uptime": "84.18%",
+    "uptime": "84.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1267,7 +1267,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 714,
+      "2026-06-20": 798,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -1666,17 +1666,17 @@
     "url": "https://masterhouse.be",
     "icon": "https://icons.duckduckgo.com/ip3/masterhouse.be.ico",
     "slug": "masterhouse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "98.00%",
-    "time": 3200,
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "91.55%",
+    "uptimeYear": "97.99%",
+    "time": 3198,
     "timeDay": 2464,
-    "timeWeek": 2676,
-    "timeMonth": 2854,
-    "timeYear": 2848,
+    "timeWeek": 2655,
+    "timeMonth": 2846,
+    "timeYear": 2847,
     "dailyMinutesDown": {
       "2026-04-11": 50,
       "2026-04-12": 89,
@@ -1732,7 +1732,7 @@
       "2026-06-16": 87,
       "2026-06-18": 18,
       "2026-06-17": 47,
-      "2026-06-20": 2
+      "2026-06-20": 84
     }
   },
   {
