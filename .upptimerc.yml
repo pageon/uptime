@@ -40,8 +40,6 @@ sites:
     url: http://stagepro.be
   - name: mtcspoor6
     url: http://mtcspoor6.be
-  - name: Masterhouse
-    url: https://masterhouse.be
   - name: Norbert Roose
     url: http://norbertroose.be
   - name: Educando
