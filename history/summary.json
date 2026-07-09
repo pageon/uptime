@@ -4,13 +4,13 @@
     "url": "https://www.pageon.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.pageon.be.ico",
     "slug": "pageon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.78%",
-    "time": 2386,
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "93.77%",
+    "time": 2389,
     "timeDay": 2057,
     "timeWeek": 2197,
     "timeMonth": 2843,
@@ -47,7 +47,8 @@
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 977,
-      "2026-05-15": 418
+      "2026-05-15": 418,
+      "2026-07-09": 80
     }
   },
   {
@@ -55,13 +56,13 @@
     "url": "https://blog.kindvangod.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kindvangod.be.ico",
     "slug": "kind-van-god",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 1473,
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.81%",
+    "time": 1474,
     "timeDay": 889,
     "timeWeek": 1109,
     "timeMonth": 1512,
@@ -76,7 +77,8 @@
       "2026-03-07": 34,
       "2026-03-31": 42,
       "2026-04-04": 51,
-      "2026-05-15": 417
+      "2026-05-15": 417,
+      "2026-07-09": 75
     }
   },
   {
@@ -84,13 +86,13 @@
     "url": "https://poetry.carakas.be",
     "icon": "https://icons.duckduckgo.com/ip3/poetry.carakas.be.ico",
     "slug": "carakas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 1650,
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.81%",
+    "time": 1652,
     "timeDay": 800,
     "timeWeek": 1743,
     "timeMonth": 1692,
@@ -105,7 +107,8 @@
       "2026-03-07": 34,
       "2026-03-31": 41,
       "2026-04-04": 50,
-      "2026-05-15": 417
+      "2026-05-15": 417,
+      "2026-07-09": 70
     }
   },
   {
@@ -113,13 +116,13 @@
     "url": "https://arisefotografie.be",
     "icon": "https://icons.duckduckgo.com/ip3/arisefotografie.be.ico",
     "slug": "arise",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 2370,
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.80%",
+    "time": 2373,
     "timeDay": 2207,
     "timeWeek": 1596,
     "timeMonth": 2517,
@@ -134,7 +137,8 @@
       "2026-01-04": 178,
       "2026-03-07": 34,
       "2026-04-04": 50,
-      "2026-05-15": 417
+      "2026-05-15": 417,
+      "2026-07-09": 65
     }
   },
   {
@@ -142,13 +146,13 @@
     "url": "http://debockverschooris.be",
     "icon": "https://icons.duckduckgo.com/ip3/debockverschooris.be.ico",
     "slug": "de-bock-verschooris",
-    "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.08%",
-    "time": 2011,
+    "status": "down",
+    "uptime": "98.06%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "94.07%",
+    "time": 2012,
     "timeDay": 1063,
     "timeWeek": 1210,
     "timeMonth": 2319,
@@ -183,7 +187,8 @@
       "2026-03-07": 34,
       "2026-03-11": 51,
       "2026-04-04": 50,
-      "2026-05-15": 417
+      "2026-05-15": 417,
+      "2026-07-09": 60
     }
   },
   {
@@ -191,13 +196,13 @@
     "url": "http://carosbeauty.be",
     "icon": "https://icons.duckduckgo.com/ip3/carosbeauty.be.ico",
     "slug": "caros",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 1775,
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.85%",
+    "time": 1776,
     "timeDay": 1190,
     "timeWeek": 1156,
     "timeMonth": 2077,
@@ -210,7 +215,8 @@
       "2026-01-04": 63,
       "2026-03-07": 34,
       "2026-04-04": 50,
-      "2026-05-15": 417
+      "2026-05-15": 417,
+      "2026-07-09": 56
     }
   },
   {
@@ -218,13 +224,13 @@
     "url": "http://evadoc.be",
     "icon": "https://icons.duckduckgo.com/ip3/evadoc.be.ico",
     "slug": "evadoc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
-    "time": 2580,
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.76%",
+    "time": 2579,
     "timeDay": 1998,
     "timeWeek": 2510,
     "timeMonth": 3302,
@@ -246,7 +252,8 @@
       "2026-03-19": 42,
       "2026-03-31": 41,
       "2026-04-04": 50,
-      "2026-05-15": 416
+      "2026-05-15": 416,
+      "2026-07-09": 51
     }
   },
   {
@@ -254,13 +261,13 @@
     "url": "http://everynationcampusgent.org",
     "icon": "https://icons.duckduckgo.com/ip3/everynationcampusgent.org.ico",
     "slug": "every-nation-campus-gent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 1926,
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.85%",
+    "time": 1924,
     "timeDay": 890,
     "timeWeek": 904,
     "timeMonth": 1521,
@@ -275,7 +282,8 @@
       "2026-03-07": 34,
       "2026-03-19": 41,
       "2026-04-04": 49,
-      "2026-05-15": 416
+      "2026-05-15": 416,
+      "2026-07-09": 46
     }
   },
   {
@@ -284,7 +292,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schoolofintercession.eu.ico",
     "slug": "school-of-intersession",
     "status": "down",
-    "uptime": "67.96%",
+    "uptime": "67.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -295,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 142,
+      "2026-07-09": 608,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -668,7 +676,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-internship.eu.ico",
     "slug": "go-internship",
     "status": "down",
-    "uptime": "67.18%",
+    "uptime": "67.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -679,7 +687,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 142,
+      "2026-07-09": 608,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -1051,13 +1059,13 @@
     "url": "https://everynationlisboa.org",
     "icon": "https://icons.duckduckgo.com/ip3/everynationlisboa.org.ico",
     "slug": "every-nation-lisboa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 2361,
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.81%",
+    "time": 2363,
     "timeDay": 1645,
     "timeWeek": 2324,
     "timeMonth": 2642,
@@ -1072,7 +1080,8 @@
       "2026-03-07": 53,
       "2026-03-31": 41,
       "2026-04-04": 49,
-      "2026-05-15": 416
+      "2026-05-15": 416,
+      "2026-07-09": 40
     }
   },
   {
@@ -1120,19 +1129,18 @@
     "url": "https://naamcirkels.be",
     "icon": "https://icons.duckduckgo.com/ip3/naamcirkels.be.ico",
     "slug": "naamcirkels",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.21%",
-    "time": 8978,
+    "time": 8975,
     "timeDay": 1424,
     "timeWeek": 6687,
     "timeMonth": 7798,
     "timeYear": 9827,
     "dailyMinutesDown": {
-      "2025-12-22": 29,
       "2025-12-23": 38,
       "2025-12-24": 81,
       "2025-12-29": 316,
@@ -1153,7 +1161,8 @@
       "2026-03-07": 52,
       "2026-03-31": 42,
       "2026-04-04": 49,
-      "2026-05-15": 416
+      "2026-05-15": 416,
+      "2026-07-09": 36
     }
   },
   {
@@ -1161,13 +1170,13 @@
     "url": "https://feniksateljee.be",
     "icon": "https://icons.duckduckgo.com/ip3/feniksateljee.be.ico",
     "slug": "feniks",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
-    "time": 2996,
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.47%",
+    "time": 2999,
     "timeDay": 1147,
     "timeWeek": 1804,
     "timeMonth": 2342,
@@ -1210,7 +1219,8 @@
       "2026-03-19": 39,
       "2026-03-31": 42,
       "2026-04-04": 49,
-      "2026-05-15": 416
+      "2026-05-15": 416,
+      "2026-07-09": 31
     }
   },
   {
@@ -1255,7 +1265,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stagepro.be.ico",
     "slug": "stagepro",
     "status": "down",
-    "uptime": "63.35%",
+    "uptime": "63.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1266,7 +1276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 143,
+      "2026-07-09": 608,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -1638,12 +1648,12 @@
     "url": "http://mtcspoor6.be",
     "icon": "https://icons.duckduckgo.com/ip3/mtcspoor6.be.ico",
     "slug": "mtcspoor6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.84%",
     "time": 721,
     "timeDay": 508,
     "timeWeek": 651,
@@ -1657,7 +1667,8 @@
       "2026-03-31": 42,
       "2026-04-04": 49,
       "2026-04-19": 28,
-      "2026-05-15": 416
+      "2026-05-15": 416,
+      "2026-07-09": 24
     }
   },
   {
@@ -1665,11 +1676,11 @@
     "url": "http://norbertroose.be",
     "icon": "https://icons.duckduckgo.com/ip3/norbertroose.be.ico",
     "slug": "norbert-roose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
     "time": 1025,
     "timeDay": 769,
@@ -1684,7 +1695,8 @@
       "2026-03-19": 39,
       "2026-03-31": 42,
       "2026-04-04": 48,
-      "2026-05-15": 411
+      "2026-05-15": 411,
+      "2026-07-09": 20
     }
   },
   {
@@ -1692,13 +1704,13 @@
     "url": "http://educando.be",
     "icon": "https://icons.duckduckgo.com/ip3/educando.be.ico",
     "slug": "educando",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.72%",
-    "time": 4103,
+    "time": 4104,
     "timeDay": 2791,
     "timeWeek": 3479,
     "timeMonth": 3815,
@@ -1720,7 +1732,8 @@
       "2026-03-19": 39,
       "2026-03-31": 42,
       "2026-04-04": 48,
-      "2026-05-15": 410
+      "2026-05-15": 410,
+      "2026-07-09": 15
     }
   },
   {
@@ -1752,11 +1765,11 @@
     "url": "https://xee.works",
     "icon": "https://icons.duckduckgo.com/ip3/xee.works.ico",
     "slug": "xee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.87%",
     "time": 998,
     "timeDay": 570,
@@ -1768,7 +1781,8 @@
       "2026-03-07": 51,
       "2026-03-31": 42,
       "2026-04-04": 48,
-      "2026-05-15": 410
+      "2026-05-15": 410,
+      "2026-07-09": 10
     }
   },
   {
@@ -1776,13 +1790,13 @@
     "url": "https://feet-up.be",
     "icon": "https://icons.duckduckgo.com/ip3/feet-up.be.ico",
     "slug": "feet-up",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.58%",
-    "time": 3913,
+    "time": 3916,
     "timeDay": 6483,
     "timeWeek": 4246,
     "timeMonth": 2261,
@@ -1814,7 +1828,8 @@
       "2026-03-07": 51,
       "2026-03-31": 42,
       "2026-04-04": 48,
-      "2026-05-15": 410
+      "2026-05-15": 410,
+      "2026-07-09": 5
     }
   },
   {
@@ -1822,11 +1837,11 @@
     "url": "https://veg.be",
     "icon": "https://icons.duckduckgo.com/ip3/veg.be.ico",
     "slug": "veg",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.72%",
     "time": 1207,
     "timeDay": 754,
@@ -1847,7 +1862,8 @@
       "2026-03-07": 51,
       "2026-03-31": 42,
       "2026-04-04": 47,
-      "2026-05-15": 410
+      "2026-05-15": 410,
+      "2026-07-09": 2
     }
   },
   {
@@ -1855,17 +1871,17 @@
     "url": "http://opendeurvzw.be",
     "icon": "https://icons.duckduckgo.com/ip3/opendeurvzw.be.ico",
     "slug": "open-deur-vzw",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 2514,
-    "timeDay": 6080,
-    "timeWeek": 3707,
-    "timeMonth": 2818,
-    "timeYear": 2854,
+    "time": 2512,
+    "timeDay": 3192,
+    "timeWeek": 3281,
+    "timeMonth": 2740,
+    "timeYear": 2848,
     "dailyMinutesDown": {
       "2025-08-12": 40,
       "2025-08-19": 8,
@@ -1883,7 +1899,8 @@
       "2026-03-07": 51,
       "2026-03-31": 103,
       "2026-04-04": 47,
-      "2026-05-15": 410
+      "2026-05-15": 410,
+      "2026-07-09": 2
     }
   },
   {
@@ -1891,17 +1908,17 @@
     "url": "https://fantasticwheels.be",
     "icon": "https://icons.duckduckgo.com/ip3/fantasticwheels.be.ico",
     "slug": "fantastic-wheels",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 3805,
-    "timeDay": 4407,
-    "timeWeek": 3843,
-    "timeMonth": 3667,
-    "timeYear": 4040,
+    "time": 3803,
+    "timeDay": 2444,
+    "timeWeek": 3422,
+    "timeMonth": 3568,
+    "timeYear": 4030,
     "dailyMinutesDown": {
       "2025-08-19": 8,
       "2025-08-21": 25,
@@ -1919,7 +1936,8 @@
       "2026-03-07": 51,
       "2026-03-31": 102,
       "2026-04-04": 47,
-      "2026-05-15": 410
+      "2026-05-15": 410,
+      "2026-07-09": 2
     }
   },
   {
@@ -1928,7 +1946,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dreambaits.be.ico",
     "slug": "dreambaits",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
