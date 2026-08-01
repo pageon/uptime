@@ -254,16 +254,16 @@
     "url": "http://everynationcampusgent.org",
     "icon": "https://icons.duckduckgo.com/ip3/everynationcampusgent.org.ico",
     "slug": "every-nation-campus-gent",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.82%",
-    "time": 1842,
-    "timeDay": 0,
-    "timeWeek": 1020,
-    "timeMonth": 983,
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.81%",
+    "time": 1840,
+    "timeDay": 1222,
+    "timeWeek": 1048,
+    "timeMonth": 990,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2025-08-03": 19,
@@ -277,7 +277,7 @@
       "2026-05-15": 416,
       "2026-07-09": 134,
       "2026-07-24": 55,
-      "2026-08-01": 4
+      "2026-08-01": 71
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 12,
+      "2026-08-01": 82,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -681,7 +681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 12,
+      "2026-08-01": 82,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1267,7 +1267,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 12,
+      "2026-08-01": 83,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
