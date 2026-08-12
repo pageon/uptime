@@ -286,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-12": 639,
+      "2026-08-12": 687,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
@@ -670,7 +670,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-12": 639,
+      "2026-08-12": 688,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
@@ -1252,7 +1252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-12": 639,
+      "2026-08-12": 688,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
@@ -1765,17 +1765,17 @@
     "url": "https://feet-up.be",
     "icon": "https://icons.duckduckgo.com/ip3/feet-up.be.ico",
     "slug": "feet-up",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.56%",
-    "time": 3933,
-    "timeDay": 2455,
-    "timeWeek": 2767,
-    "timeMonth": 4121,
-    "timeYear": 3230,
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.55%",
+    "time": 3932,
+    "timeDay": 2551,
+    "timeWeek": 2752,
+    "timeMonth": 4076,
+    "timeYear": 3228,
     "dailyMinutesDown": {
       "2025-08-19": 8,
       "2025-08-21": 25,
@@ -1801,7 +1801,7 @@
       "2026-05-15": 410,
       "2026-07-09": 96,
       "2026-08-04": 100,
-      "2026-08-12": 2
+      "2026-08-12": 49
     }
   },
   {
