@@ -143,7 +143,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.62%",
+    "uptimeYear": "96.63%",
     "time": 1941,
     "timeDay": 1674,
     "timeWeek": 1236,
@@ -277,7 +277,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1360,
+      "2026-08-21": 1378,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -661,7 +661,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1361,
+      "2026-08-21": 1378,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1242,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1361,
+      "2026-08-21": 1379,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1754,17 +1754,17 @@
     "url": "https://feet-up.be",
     "icon": "https://icons.duckduckgo.com/ip3/feet-up.be.ico",
     "slug": "feet-up",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.56%",
-    "time": 3908,
-    "timeDay": 2621,
-    "timeWeek": 2807,
-    "timeMonth": 3139,
-    "timeYear": 3111,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.55%",
+    "time": 3906,
+    "timeDay": 2641,
+    "timeWeek": 2789,
+    "timeMonth": 3125,
+    "timeYear": 3110,
     "dailyMinutesDown": {
       "2025-08-25": 12,
       "2025-08-26": 40,
@@ -1789,7 +1789,7 @@
       "2026-07-09": 96,
       "2026-08-04": 100,
       "2026-08-12": 49,
-      "2026-08-21": 1
+      "2026-08-21": 18
     }
   },
   {
