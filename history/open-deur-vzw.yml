@@ -1,7 +1,7 @@
 url: http://opendeurvzw.be
-status: up
-code: 200
-responseTime: 4873
-lastUpdated: 2026-09-01T01:44:29.536Z
+status: down
+code: 500
+responseTime: 248
+lastUpdated: 2026-09-01T21:21:48.868Z
 startTime: 2022-05-18T14:20:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
