@@ -1,7 +1,7 @@
 url: http://educando.be
-status: up
-code: 200
-responseTime: 9588
-lastUpdated: 2026-09-01T01:44:16.361Z
+status: down
+code: 500
+responseTime: 328
+lastUpdated: 2026-09-01T21:19:55.852Z
 startTime: 2022-05-18T14:19:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
