@@ -250,7 +250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schoolofintercession.eu.ico",
     "slug": "school-of-intersession",
     "status": "down",
-    "uptime": "65.41%",
+    "uptime": "65.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 141,
+      "2026-09-06": 362,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 141,
+      "2026-09-06": 363,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1219,7 +1219,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 141,
+      "2026-09-06": 363,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1733,13 +1733,13 @@
     "url": "https://feet-up.be",
     "icon": "https://icons.duckduckgo.com/ip3/feet-up.be.ico",
     "slug": "feet-up",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.60%",
-    "time": 3837,
+    "time": 3831,
     "timeDay": 2554,
     "timeWeek": 2644,
     "timeMonth": 2538,
@@ -1767,7 +1767,8 @@
       "2026-08-21": 18,
       "2026-08-22": 24,
       "2026-08-23": 32,
-      "2026-08-25": 48
+      "2026-08-25": 48,
+      "2026-09-06": 2
     }
   },
   {
